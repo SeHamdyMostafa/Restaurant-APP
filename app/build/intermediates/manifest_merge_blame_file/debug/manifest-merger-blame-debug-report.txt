@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.resturant"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:5:5-60:19
+12        android:allowBackup="true"
+12-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\hamdi\.gradle\caches\transforms-3\969d6adcb8da8a00cd0456c9134f9a69\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.Resturant" >
+20-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:11:9-47
+21        <activity
+21-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="com.example.resturant.Cart_Model"
+22-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:13:13-39
+23            android:exported="false" />
+23-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.resturant.Cart"
+25-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:16:13-33
+26            android:exported="false" />
+26-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.resturant.Change_password"
+28-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:19:13-44
+29            android:exported="false" />
+29-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:21:9-23:40
+31            android:name="com.example.resturant.Setting"
+31-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:22:13-36
+32            android:exported="false" />
+32-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:23:13-37
+33        <activity
+33-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:24:9-26:40
+34            android:name="com.example.resturant.Food_Model"
+34-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:25:13-39
+35            android:exported="false" />
+35-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:26:13-37
+36        <activity
+36-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.resturant.Purchases"
+37-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:28:13-38
+38            android:exported="false" />
+38-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:29:13-37
+39        <activity
+39-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:30:9-32:40
+40            android:name="com.example.resturant.Pizza_food"
+40-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:31:13-39
+41            android:exported="false" />
+41-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:32:13-37
+42        <activity
+42-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:33:9-35:40
+43            android:name="com.example.resturant.Mac_food"
+43-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:34:13-37
+44            android:exported="false" />
+44-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:35:13-37
+45        <activity
+45-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:36:9-38:40
+46            android:name="com.example.resturant.KFC"
+46-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:37:13-32
+47            android:exported="false" />
+47-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:38:13-37
+48        <activity
+48-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:39:9-41:40
+49            android:name="com.example.resturant.MainActivity"
+49-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:40:13-41
+50            android:exported="false" />
+50-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:41:13-37
+51        <activity
+51-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:42:9-44:40
+52            android:name="com.example.resturant.Register"
+52-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:43:13-37
+53            android:exported="false" />
+53-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:44:13-37
+54        <activity
+54-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:45:9-47:40
+55            android:name="com.example.resturant.Login"
+55-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:46:13-34
+56            android:exported="false" />
+56-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:47:13-37
+57        <activity
+57-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:48:9-50:40
+58            android:name="com.example.resturant.Profile"
+58-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:49:13-36
+59            android:exported="false" />
+59-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:50:13-37
+60        <activity
+60-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:51:9-59:20
+61            android:name="com.example.resturant.Splash"
+61-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:52:13-35
+62            android:exported="true" >
+62-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:53:13-36
+63            <intent-filter>
+63-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:54:13-58:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:55:17-69
+64-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:55:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:57:17-77
+66-->C:\Users\hamdi\AndroidStudioProjects\Restaurant-Application-master\app\src\main\AndroidManifest.xml:57:27-74
+67            </intent-filter>
+68        </activity>
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.example.resturant.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hamdi\.gradle\caches\transforms-3\2e4bf10c2243ada31cacfbbec244f0d3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hamdi\.gradle\caches\transforms-3\3221fbfd9b9ee84f743b7eff8fb92fd8\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hamdi\.gradle\caches\transforms-3\3221fbfd9b9ee84f743b7eff8fb92fd8\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hamdi\.gradle\caches\transforms-3\3221fbfd9b9ee84f743b7eff8fb92fd8\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+80        </provider>
+81
+82        <uses-library
+82-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+83            android:name="androidx.window.extensions"
+83-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+84            android:required="false" />
+84-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+85        <uses-library
+85-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+86            android:name="androidx.window.sidecar"
+86-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+87            android:required="false" />
+87-->[androidx.window:window:1.0.0] C:\Users\hamdi\.gradle\caches\transforms-3\53e21ad2960a4084891685d4212cd06a\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+88    </application>
+89
+90</manifest>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_layout"
+    tools:context=".MainActivity">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:layout_gravity="center"
+            >
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/animationView_food"
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/home_icon" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="27sp"
+                android:text="Order Now"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:gravity="center"
+                />
+        </LinearLayout>
+
+
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:rowCount="2"
+                android:columnCount="2"
+                android:background="@drawable/background_for_main_gridlayout"
+                android:backgroundTint="#2C8BB6"
+                android:padding="10dp"
+                android:layout_marginTop="20dp">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/KFC_card"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardElevation="4dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:backgroundTint="@color/bg_card"
+                    app:cardCornerRadius="30dp"
+                    app:cardUseCompatPadding="true"
+                    android:layout_marginTop="20dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="20dp">
+
+                        <ImageView
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
+                            android:src="@drawable/kfc"
+                            android:layout_gravity="center"
+                            android:onClick="egyptian_food_function"
+                            />
+
+                        <TextView
+                            android:id="@+id/tv_KFC_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="5dp"
+                            android:text="KFC"
+                            android:textColor="@color/black"
+                            android:textSize="20dp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/Indian_food_card"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardElevation="4dp"
+                    app:cardUseCompatPadding="true"
+                    android:layout_marginStart="-100dp"
+                    android:layout_marginEnd="5dp"
+                    android:backgroundTint="@color/bg_card"
+                    app:cardCornerRadius="30dp"
+                    android:layout_marginTop="20dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="20dp">
+
+                        <ImageView
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
+                            android:src="@drawable/pizzahutlogo"
+                            android:onClick="Indian_food_function"
+                            android:layout_gravity="center"/>
+                        <TextView
+                            android:id="@+id/tv_Indian_food_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Pizza hut"
+                            android:textSize="20dp"
+                            android:layout_marginTop="5dp"
+                            android:textColor="@color/black"
+                            android:textStyle="bold"
+                            android:layout_gravity="center"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/Chinese_food_card"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardElevation="4dp"
+                    android:layout_marginStart="130dp"
+                    android:layout_marginEnd="5dp"
+                    android:backgroundTint="@color/bg_card"
+                    app:cardCornerRadius="30dp"
+                    app:cardUseCompatPadding="true">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="20dp">
+
+                        <ImageView
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
+                            android:src="@drawable/mac"
+                            android:layout_gravity="center"
+                            android:onClick="chinese_food_function"/>
+                        <TextView
+                            android:id="@+id/tv_Chinese_Food_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Mcdonalds"
+                            android:textSize="20dp"
+                            android:layout_marginTop="5dp"
+                            android:textStyle="bold"
+                            android:textColor="@color/black"
+                            android:layout_gravity="center"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </GridLayout>
+
+</LinearLayout>

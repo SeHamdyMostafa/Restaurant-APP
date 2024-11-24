@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_purchases.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_purchases.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\food_item.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pizza_food.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_pizza_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cart_model.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_cart_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_food_model.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_food_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mac_food.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_mac_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_kfc.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_kfc.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

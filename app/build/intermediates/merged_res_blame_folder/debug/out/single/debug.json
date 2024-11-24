@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_m2m.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\m2m.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_food_order.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\food_order.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\xml_shared_preferences.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\xml\\shared_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_images.jpg.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_purchases.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\purchases.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_purchases.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_purchases.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background_profile.jpg.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\background_profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_show_pass.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\show_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_margherita.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\margherita.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_home_icon.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\home_icon.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pizza_food.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_pizza_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_profile.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\profile.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_supreme_love.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\supreme_love.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cart.jpg.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\cart.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_forget_pass.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\forget_pass.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock_24.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_veggie.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\veggie.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_grand_chicken_regular.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\grand_chicken_regular.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_profile_icon.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\profile_icon.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_twister_charger_plus.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\twister_charger_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_share_box.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\share_box.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cheese_lovers.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\cheese_lovers.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_hm_d_chesseburger.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\hm_d_chesseburger.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_super_supreme.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\super_supreme.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_little_tasty.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\little_tasty.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background_for_main_gridlayout.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\background_for_main_gridlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_user_profile.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\user_profile.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_big_tasty_chicken.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\big_tasty_chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_chicken_fillet.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\chicken_fillet.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mushroom.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\mushroom.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_kfc.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_kfc.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_super_dinner_strips.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\super_dinner_strips.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mega_rizo.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\mega_rizo.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food_model.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_food_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_dynamic_ranch_new.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\dynamic_ranch_new.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_cheering_box.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\cheering_box.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_hide_pass.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\hide_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\menu_delete_menu.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\menu\\delete_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bbq_chicken_pizza.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\bbq_chicken_pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_grand_share.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\grand_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_splah_icon.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\splah_icon.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ready_to_eat.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\ready_to_eat.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mac.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\mac.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mighty_love.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\mighty_love.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_praw.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\praw.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_hm_d_beefburger.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\hm_d_beefburger.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pizzahutlogo.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\pizzahutlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cart_model.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_cart_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_up.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\menu\\menu_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_chicken_supreme.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\chicken_supreme.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mac_food.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_mac_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_food_item.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_kfc.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\kfc.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bt_border.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\bt_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mighty_plus.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\mighty_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person_24.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable\\ic_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shrimp_box.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\shrimp_box.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_twister_charger_box.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\twister_charger_box.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_spicy_chicken_ranch.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\spicy_chicken_ranch.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\raw_up_splash_home.json.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\raw\\up_splash_home.json"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_classic_pepperoni.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\classic_pepperoni.png"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background_image_for_login.jpg.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\background_image_for_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_supreme_combo.png.flat",
+        "source": "C:\\Users\\hamdi\\AndroidStudioProjects\\Restaurant-Application-master\\app\\src\\main\\res\\drawable-v24\\supreme_combo.png"
+    }
+]
