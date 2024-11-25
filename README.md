@@ -82,7 +82,7 @@ This is a mobile application that allows users to create an account, browse food
 
     3- Register Pages
   
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
+<img src = "" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/vLZX7698eM.png" width = 250 height = 450/>
 
     4- Home Page
     
