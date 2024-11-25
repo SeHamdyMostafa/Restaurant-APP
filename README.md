@@ -82,44 +82,42 @@ This is a mobile application that allows users to create an account, browse food
 
     3- Register Pages
   
-<img src = "" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/vLZX7698eM.png" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/dETU2920c.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/F5221Y.png" width = 250 height = 450/>
 
     4- Home Page
     
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/eTYu3713jgY.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/RSjM2782sE.png" width = 250 height = 450/>
 
     5- KFC Menu 
 
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/Etc9060ekY.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/ZoP9000ac.png" width = 250 height = 450/>
 
     6- McDonald's Menu 
     
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
-
+<img src = "https://i.imghippo.com/files/KCXG8598MGc.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/GTl9757fH.png" width = 250 height = 450/>
     
     7- Pizza Hut Menu 
 
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/yPRG8915UQ.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/veY4559XvA.png" width = 250 height = 450/>
 
     8- Product Details 
     
-<img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/> <img src = "" width = 250 height = 450/>
-
+<img src = "https://i.imghippo.com/files/HQP4742t.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/KFD3062SI.png" width = 250 height = 450/> <img src = "https://i.imghippo.com/files/qHf4447nA.png" width = 250 height = 450/>
 
     9- Settings Page 
 
-<img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/NTT4538wcc.png" width = 250 height = 450/>
 
     10- Profile Page
 
-<img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/M8733Nas.png" width = 250 height = 450/>
 
     11- Edit Profile Page
 
-<img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/LIx8019oQ.png" width = 250 height = 450/>
 
     11- Change Password Page
 
-<img src = "" width = 250 height = 450/>
+<img src = "https://i.imghippo.com/files/KLBN1808SP.png" width = 250 height = 450/>
 
    
