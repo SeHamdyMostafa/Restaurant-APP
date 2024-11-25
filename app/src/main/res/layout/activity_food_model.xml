@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Food_Model"
+    android:background="@drawable/images">
+
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Chicken Biryani"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="30dp"
+                android:textStyle="bold"/>
+
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/Cheering_Box_card"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"
+                app:cardCornerRadius="200dp"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/Image_Food"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/mega_rizo"
+                    android:layout_gravity="center"/>
+
+            </androidx.cardview.widget.CardView>
+
+
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Delicious Rice with spices and chicken pieces with biryani sauce "
+                android:textAlignment="center"
+                android:textColor="#8C0589"
+                android:textSize="28dp"
+                android:textStyle="normal" />
+
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="100 L.E"
+                android:textAlignment="center"
+                android:textColor="#8C0589"
+                android:textSize="28dp"
+                android:textStyle="normal" />
+
+
+            <RatingBar
+                android:id="@+id/rating_purchases"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:numStars="5"
+                android:layout_marginTop="20dp"
+                android:progressTint="#FFC107"
+                android:rating="3"
+                android:scaleX=".7"
+                android:scaleY=".7"
+                android:stepSize="0.5" />
+
+            <Button
+
+                android:layout_width="200dp"
+                android:layout_height="70dp"
+                android:text="Add to cart"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:background="@drawable/border"
+                android:onClick="ADD_Cart"
+                app:layout_constraintBottom_toBottomOf="@+id/scroll" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
